@@ -1,0 +1,7 @@
+*.bin
+*.fasm
+build/
+*.vh
+*.vhd
+*.json
+debug.list
